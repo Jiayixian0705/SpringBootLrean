@@ -1,0 +1,8 @@
+logging:
+  level: { com.example: trace }
+  file:
+    # 在指定路径下生成日志文件
+    path: springboot.log
+spring:
+  profiles:
+    active: dev

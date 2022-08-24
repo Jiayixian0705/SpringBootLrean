@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+name: 黄辉
+
+numbers:
+  - 05
+  - 23
+  - 20
+person:
+  name:
